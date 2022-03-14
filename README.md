@@ -1,7 +1,7 @@
 <h2> What’s up, devs? </h2>
 <div align="left">
 	<br>
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'>
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamthersoa&show_icons=true&theme=dracula)](https://github.com/gamthersoa/github-readme-stats)
