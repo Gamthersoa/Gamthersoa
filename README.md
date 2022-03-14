@@ -1,6 +1,8 @@
 <h2> What’s up, devs? </h2>
 <div align="left">
 	<br>
+		<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50">
+
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'>
 </div>
 
