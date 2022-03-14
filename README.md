@@ -4,9 +4,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamthersoa&show_icons=true&theme=dracula)](https://github.com/gamthersoa/github-readme-stats)
 ![Gamthersoa GitHub stats](https://github-readme-stats.vercel.app/api?username=gamthersoa&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamthersoa&layout=compact)](https://github.com/gamthersoa/github-readme-stats)
-
 
 I'm Gustavo Maxsuel, from Brazil, I'm work at Itaipu Binational Hydroelectric - with service desk, as quality technician.
 
@@ -39,6 +38,8 @@ Talk to me about
 ![blog](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![blog](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![blog](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
 
  <p align="right">
    <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
