@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamthersoa&show_icons=true&theme=dracula)](https://github.com/gamthersoa/github-readme-stats)
 ![Gamthersoa GitHub stats](https://github-readme-stats.vercel.app/api?username=gamthersoa&show_icons=true&theme=dracula)
 
-I'm Gustavo Maxsuel, from Brazil, I'm work at Itaipu Binational Hydroelectric - with service desk, as quality technician.
+I'm Gustavo Maxsuel, from Brazil, I work as a software developer at the itaipu technological park foundation in Itaipu Binational Hydroelectric.
 
 
 ## ⚡ Technologies
